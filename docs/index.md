@@ -16,7 +16,7 @@ hero:
     - theme: alt
       text: Go to Github
       link: https://github.com/practable
-  image: ./assets/hero.png
+  image: /assets/hero.png
 	  
 
 features:
