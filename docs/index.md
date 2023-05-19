@@ -1,25 +1,25 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
+# https://practable.github.io
 layout: home
 
 hero:
   name: "Practable"
-  text: "Documentation for Practable remote labs "
+  text: "Remote laboratories for traditional campuses"
   tagline: Explore new opportunities for practical work
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Experiment Examples
+      link: /experiment-examples
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: System information
+      link: /system-information
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Sustainability
+    details: Low total cost of ownership and low carbon footprint 
+  - title: Accessibility
+    details: Do practical work on any internet-connected device with a browser
+  - title: Opportunity
+    details: Let your students and staff explore new pedagogical opportunities
 ---
 
