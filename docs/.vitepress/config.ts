@@ -3,20 +3,22 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Practable",
-  description: "Documentation for Practable remote labs ",
+  description: "Introduction to Practable remote labs ",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+		{ text: 'Experiments', link: '/experiment-examples' },
+		{ text: 'Infrastructure', link: '/cloud-infrastructure' },
+		
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Overview',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Experiment Examples', link: '/experiment-examples' },
+          { text: 'Cloud Infrastructure', link: '/cloud-infrastructure' }
         ]
       }
     ],

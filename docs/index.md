@@ -10,9 +10,12 @@ hero:
     - theme: brand
       text: Experiment Examples
       link: /experiment-examples
+    - theme: brand
+      text: Cloud Infrastructure
+      link: /cloud-infrastructure
     - theme: alt
-      text: System information
-      link: /system-information
+      text: Go to Github
+      link: https://github.com/practable
 
 features:
   - title: Sustainability
