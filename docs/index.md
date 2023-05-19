@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Practable"
   text: "Documentation for Practable remote labs "
-  tagline: My great project tagline
+  tagline: Explore new opportunities for practical work
   actions:
     - theme: brand
       text: Markdown Examples
